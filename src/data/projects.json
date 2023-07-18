@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Goal-In-One",
+    "description": "An application to track and plan goals using a method I created with the assistance of Chat GPT",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "goal-in-one"
+  },
+  {
+    "id": 2,
+    "title": "JMS",
+    "description": "JMS is an application similar to a CRM but to keep notes and track of job applications with companies and agencies and to log my interactions and actions with them",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "jms"
+  },
+  {
+    "id": 3,
+    "title": "Example Project",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "project3"
+  },
+  {
+    "id": 3,
+    "title": "Example Project",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "project3"
+  },
+  {
+    "id": 3,
+    "title": "Example Project",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "project3"
+  },
+  {
+    "id": 3,
+    "title": "Example Project",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "project3"
+  },
+  {
+    "id": 3,
+    "title": "Example Project",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "project3"
+  },
+  {
+    "id": 3,
+    "title": "Example Project",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "stack": ["NextJS", "MongoDB", "Docker"],
+    "image": "WIP_vectorial_version.svg",
+    "url": "project3"
+  }
+]
