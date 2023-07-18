@@ -1,8 +1,11 @@
-# [dresdemort.me](https://www.dresdemort.me/)
+# [Blake Madigan]()
 
 ## Landing Page
 
 ## Portfolio
+
+- Finish Designing Cards
+- Create reactive design to display cards
 
 ## Contact Me
 
